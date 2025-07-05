@@ -116,3 +116,73 @@ npm run link
 npm run unlink
 ```
 
+## Legal Disclaimer and Terms of Use
+
+### YouTube Terms of Service Compliance
+
+⚠️ **Important Legal Notice**: This tool is provided for educational and personal use only. Users are responsible for ensuring their usage complies with applicable laws and platform terms of service.
+
+#### YouTube's Terms of Service
+- YouTube's Terms of Service generally prohibit downloading content unless explicitly permitted by YouTube or the content owner
+- Users should only download content they have legal rights to download (e.g., their own content, public domain content, or content with explicit permission)
+- Commercial use of downloaded content may violate copyright laws and platform terms
+
+#### Responsible Usage Guidelines
+✅ **Recommended Uses**:
+- Downloading your own uploaded content
+- Educational purposes with proper fair use considerations
+- Content explicitly marked as downloadable by the creator
+- Public domain or Creative Commons licensed content
+- Backup of content you have legal rights to
+
+❌ **Not Recommended**:
+- Downloading copyrighted content without permission
+- Commercial redistribution of downloaded content
+- Violating content creators' intellectual property rights
+- Circumventing platform monetization systems
+
+### Copyright and Intellectual Property
+
+- All downloaded content remains subject to original copyright and licensing terms
+- Users must respect intellectual property rights of content creators
+- This tool does not grant any rights to copyrighted material
+- Content creators' rights supersede any functionality provided by this tool
+
+### Geographic and Legal Considerations
+
+- Laws regarding content downloading vary by jurisdiction
+- Users in certain regions may face additional legal restrictions
+- Some countries have specific copyright laws that may apply
+- Users should consult local legal requirements before using this tool
+
+### Disclaimer of Liability
+
+- This software is provided "as is" without warranty of any kind
+- The developers are not responsible for users' compliance with terms of service or applicable laws
+- Users assume all risks and legal responsibilities for their usage
+- The tool's existence does not constitute legal advice or permission to download content
+
+### Platform Policy Changes
+
+- Platform terms of service may change without notice
+- Users should regularly review YouTube's Terms of Service
+- This tool may cease to function if platforms implement technical or legal restrictions
+- The developers may modify or discontinue this tool to ensure compliance
+
+### Ethical Considerations
+
+🤝 **Support Content Creators**:
+- Consider supporting creators through official channels (subscriptions, donations, merchandise)
+- Respect creators' wishes regarding content distribution
+- Use official platform features when available (offline viewing, playlists)
+- Understand that creators rely on platform engagement and monetization
+
+### Contact and Compliance
+
+If you believe this tool is being used in violation of your rights or if you have questions about compliance:
+- Content creators should contact users directly regarding their content
+- Platform policy questions should be directed to the respective platforms
+- Legal concerns should be addressed through appropriate legal channels
+
+**Remember**: Technology should be used responsibly and ethically. Always prioritize respect for content creators and compliance with applicable laws and terms of service.
+
