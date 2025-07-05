@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "npm",
+            "args": ["run", "build"],
+            "group": "build",
+            "problemMatcher": ["$tsc"]
+        },
+        {
+            "label": "Watch",
+            "type": "shell",
+            "command": "npm",
+            "args": ["run", "watch"],
+            "group": "build",
+            "isBackground": true,
+            "problemMatcher": ["$tsc-watch"]
+        },
+        {
+            "label": "Dev Run",
+            "type": "shell",
+            "command": "npm",
+            "args": ["run", "dev"],
+            "group": "test"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "lil-video-buddy",
+  "version": "1.0.0",
+  "description": "A lil CLI tool to download videos from web sources like YouTube",
+  "main": "dist/index.js",
+  "bin": {
+    "video-buddy": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js",
+    "watch": "tsc --watch",
+    "clean": "rm -rf dist",
+    "prepublishOnly": "npm run build",
+    "install-global": "npm run build && npm install -g .",
+    "uninstall-global": "npm uninstall -g lil-video-buddy",
+    "link": "npm run build && npm link",
+    "unlink": "npm unlink -g lil-video-buddy"
+  },
+  "keywords": [
+    "cli",
+    "video",
+    "download",
+    "youtube",
+    "lil"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
